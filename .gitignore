@@ -1,0 +1,19 @@
+*.iml
+
+# gradle files
+.gradle
+gradlew
+gradlew.bat
+gradle.properties
+
+# test folder
+test/
+
+.idea/
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
